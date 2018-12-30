@@ -7,3 +7,6 @@ kubectl apply -f led-pod-daemon.yaml
 ```
 ## And Voila
 ![](docs/img.jpg)
+
+## Acknowledgements
+This project draws inspiration from the project [Apprenda](https://github.com/apprenda/blinkt-k8s-controller)
