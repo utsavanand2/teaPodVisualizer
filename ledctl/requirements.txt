@@ -1,0 +1,4 @@
+rpi.gpio
+adafruit-blinka
+adafruit-circuitpython-neopixel
+redis

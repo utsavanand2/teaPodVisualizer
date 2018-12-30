@@ -1,0 +1,17 @@
+{
+  "name": "pod-status",
+  "version": "1.0.0",
+  "description": "nodejs app to check pod status",
+  "main": "pod.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node pod.js"
+  },
+  "author": "Kumar Utsav Anand",
+  "license": "MIT",
+  "dependencies": {
+    "@kubernetes/client-node": "0.7.1",
+    "ioredis": "^4.3.0",
+    "request": "2.88.0"
+  }
+}
