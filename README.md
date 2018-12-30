@@ -6,3 +6,4 @@
 kubectl apply -f led-pod-daemon.yaml
 ```
 ## And Voila
+![](docs/img.jpg)
